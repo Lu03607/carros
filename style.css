@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+:root {
+
+    --orange: #E28625;
+    --green: #006971;
+    --dark-green: #004140;
+    font-size: 62.5%;
+    
+}
+
+body {
+    font-size: 1.6rem;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 62rem;
+    display: flex;
+
+}
+
+.sedans {
+   background-color: #E28625;
+}
+
+.suvs {
+    background-color: #006971;
+}
+
+.luxury {
+    background-color: #004140;
+}
+
+h2 {
+    font-family: Big Shoulders Display;
+}
+
+p {
+    font-family: Lexend Deca;
+}
+
+a {
+    font-family: Lexend Deca;
+}
+
